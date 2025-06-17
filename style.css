@@ -89,5 +89,7 @@ body {
 }
 
 .noticia {
-  align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+     font-family: 'Poppins', sans-serif;
 }
